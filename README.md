@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NhatNguyen2612&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=NhatNguyen2612&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=silenboiz&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
